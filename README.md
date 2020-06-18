@@ -1,2 +1,2 @@
 # bin2dec
-conversor
+A simple numeric base converter CLI
